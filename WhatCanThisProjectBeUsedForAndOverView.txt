@@ -1,7 +1,8 @@
-This project is made of background images that expand when clicked on. 
+This project is a 3D effect box look effect on a gif.
+Clicking a button removes the "box" effect and creates a single gif image instead 
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- funky gifs/ large image 
